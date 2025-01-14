@@ -1,2 +1,2 @@
 # minecraft-linux
-Script to download and install Minecraft for Linus distros not officially supported via the tarball package.
+Script to download and install Minecraft for Linux distros not officially supported via the tarball package.
