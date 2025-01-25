@@ -1,4 +1,2 @@
 # minecraft-linux
-Script to download and install Minecraft Java for Linux distros not officially supported via the tarball package.
-
-Scripts for Fedora, Debian/Ubuntu, Arch, SUSE -based systems provided.
+Script to automate the download and installation process of Minecraft for Linux, includes the official releases for Debian/Ubuntu and Arch builds, as well as other OSes unofficially supported via the tar.gz package.
